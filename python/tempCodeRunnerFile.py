@@ -1,1 +1,1 @@
-number = int(input("Enter an integer:"))
+print('中国')
